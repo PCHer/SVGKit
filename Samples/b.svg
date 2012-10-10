@@ -1,0 +1,36 @@
+<svg width="558" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin">
+ <defs>
+  <marker id="A3_000000" orient="auto" markerHeight="10" markerWidth="10" markerUnits="strokeWidth" refY="12" refX="12" viewBox="0 0 24 24">
+   <path id="svg_1" stroke="#000000" fill="#000000" d="m0,4l18,8l-18,8l0,-16z"/>
+  </marker>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <g transform="rotate(47,115,100)" id="S1349387729103">
+    <rect id="svg_3" stroke-dasharray="0" stroke="#000000" fill="#e6e6fa" height="120" width="50" y="40" x="90"/>
+   </g>
+   <g id="S1349387731020">
+    <ellipse id="svg_4" stroke-dasharray="0" stroke="#000000" fill="#e6e6fa" ry="40" rx="60" cy="90" cx="250"/>
+   </g>
+   <g id="S1349387734637">
+    <line id="svg_5" stroke-dasharray="0" stroke="#000000" marker-end="url(#A3_000000)" y2="230" x2="410" y1="240" x1="70"/>
+   </g>
+   <g id="S1349395084909">
+    <path id="svg_6" d="m280,410q-110,-40 -130,-30c-20,10 0,60 0,60q0,0 20,-40" stroke-dasharray="0" stroke="#000000" marker-end="url(#A3_000000)" fill="none"/>
+    <path id="svg_7" d="m280,410q-110,-40 -130,-30c-20,10 0,60 0,60q0,0 20,-40" stroke-width="18" stroke-opacity="0.01" stroke="#ffffff" fill="none"/>
+   </g>
+   <g id="S1349471168594">
+    <g id="svg_8" transform="translate(412 133) scale(1 1)">
+     <g id="svg_9">
+      <image id="svg_10" height="46" width="44" xlink:href="/csi-requesthandler/RequestHandler?URL=cf%3A%2F%2Ffv%2F96965&amp;Module=Publisher&amp;Operation=GetDirect&amp;OutputJSON=1" y="-79" x="71"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
